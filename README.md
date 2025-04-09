@@ -1,4 +1,4 @@
-# Graphic Weather Station 🌦️
+# Graphic Weather Station
 
 Aplikacja desktopowa w Pythonie umożliwiająca symulację działania stacji pogodowej z dynamicznym dodawaniem i wizualizacją danych z wirtualnych sensorów.
 
