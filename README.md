@@ -22,9 +22,9 @@ Graphic Weather Station to aplikacja graficzna stworzona w Pythonie przy użyciu
 - JSON do zapisu i odczytu konfiguracji
 - Programowanie obiektowe (OOP)
 
-## Jak uruchomić projekt
+## Instalacja
 
-Sklonuj repozytorium:
+1. Sklonuj repozytorium
+2. Otwórz projekt w preferowanym środowisku Python.
 
-```bash
-git clone https://github.com/CyberFenix343/graphic_weather_station.git
+
