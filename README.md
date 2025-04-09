@@ -4,7 +4,7 @@ Aplikacja desktopowa w Pythonie umożliwiająca symulację działania stacji pog
 
 ## Opis projektu
 
-Graphic Weather Station to aplikacja graficzna stworzona w Pythonie przy użyciu biblioteki Tkinter. Umożliwia dodawanie różnych typów sensorów (np. temperatury, wilgotności), wizualizację ich odczytów w czasie rzeczywistym oraz zapis konfiguracji do pliku. Projekt rozwija umiejętności w zakresie programowania obiektowego, pracy z GUI oraz symulacji danych.
+Graphic Weather Station to aplikacja graficzna stworzona w Pythonie przy użyciu biblioteki Tkinter. Umożliwia dodawanie różnych typów sensorów (np. temperatury, wilgotności), wizualizację ich odczytów w czasie rzeczywistym oraz zapis konfiguracji do pliku.
 
 ## Funkcje
 
@@ -27,8 +27,4 @@ Graphic Weather Station to aplikacja graficzna stworzona w Pythonie przy użyciu
 Sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/twoj-uzytkownik/nazwa-repo.git
-1. Sklonuj repozytorium:
-
-```bash
-git clone https://github.com/twoj-uzytkownik/nazwa-repo.git
+git clone https://github.com/CyberFenix343/graphic_weather_station.git
