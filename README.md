@@ -24,7 +24,7 @@ Graphic Weather Station to aplikacja graficzna stworzona w Pythonie przy użyciu
 
 ## Jak uruchomić projekt
 
-1. Sklonuj repozytorium:
+Sklonuj repozytorium:
 
 ```bash
 git clone https://github.com/twoj-uzytkownik/nazwa-repo.git
